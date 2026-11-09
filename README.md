@@ -1,4 +1,4 @@
-# 🧠 Memory Game
+# Memory Game
 
 A Simon-style memory game built with Python and Tkinter. Watch the sequence of colored buttons flash, then repeat it from memory. Each round adds one more color and the game gets faster.
 
